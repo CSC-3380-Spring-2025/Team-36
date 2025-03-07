@@ -1,6 +1,6 @@
-# [Name of the Project] : [Team Number]
+# [Jaeger: RPG] : [Team 36]
 # Members
-Project Manager: [Name] ([GitHub Name])\
+Project Manager: [Jalen Neverdon] ([JJoestar4])\
 Communications Lead: [Name] ([GitHub Name])\
 Git Master: [Name] ([GitHub Name])\
 Design Lead: [Name] ([GitHub Name])\
