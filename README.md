@@ -1,7 +1,7 @@
 # [Jaeger: RPG] : [Team 36]
 # Members
 Project Manager: [Jalen Neverdon] ([JJoestar4])\
-Communications Lead: [Name] ([GitHub Name])\
+Communications Lead: [K'Saan Smith] ([ksmi482])\
 Git Master: [Name] ([GitHub Name])\
 Design Lead: [Name] ([GitHub Name])\
 Quality Assurance Tester: [Name] ([GitHub Name])
